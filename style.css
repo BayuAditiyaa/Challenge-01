@@ -67,10 +67,11 @@ section .bannerblue {
     color: #F1F3FF;
 }
 
-div .footNav {
-        list-style-type: none;
+.footNav a{
+        text-decoration: none;
         font-weight: 500;
         margin-bottom: 0.5em;
+        color: black;
       }
 
 .Footer .sosmed {
