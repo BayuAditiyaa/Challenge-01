@@ -9,6 +9,18 @@ body{
     color: black;
 }
 
+.offcanvas {
+    max-width: 50%;
+}
+.btn-register , .btn-sewa ,.btn-sewa-mobil{
+    background-color: #5CB85F;
+
+}
+
+.btn-register:hover, .btn-sewa-mobil:hover{
+    background-color: #07a204;
+}
+
 .nav-link {
     color: black;
 }
@@ -131,5 +143,9 @@ section .bannerblue {
         margin: auto;
         padding-top: 10px;
         margin-bottom: 1rem;
+    }
+
+    .paragraph p{
+        font-size: small;
     }
   }
