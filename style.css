@@ -92,6 +92,31 @@ section .bannerblue {
     color: #0D28A6;
 }
 
+.btn-sewa {
+
+    background-color: #CFD4ED;
+    color: #0D28A6;
+}
+
+.rent-wrapper a:hover{
+    background-color: #0D28A6;
+    color: #f6f6f6;
+}
+
+.btn-load a{
+    background-color: #0D28A6;
+    color: #f6f6f6;
+}
+
+.btn-load a:hover{
+    background-color: #CFD4ED;
+    color: #0D28A6;
+}
+
+.new-card {
+    display: none;
+}
+
 @media screen and (max-width: 400px) {
     .image1 {
       max-width: max-content;
